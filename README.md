@@ -1,6 +1,6 @@
 # Screenshot
 
-![screenshot](screenshot.jpg)
+![screenshot](screenshot.png)
 
 # How to Run?
 
